@@ -1,4 +1,4 @@
-# PROJECTILE - Tera Online Proxy Module
+# PROJECTILE - Tera Online Proxy Module (Мод не актуален)
 https://yadi.sk/d/tB0fka-b3Rv53a
 
 1. Фильтр по классу.
@@ -58,7 +58,6 @@ https://yadi.sk/d/tB0fka-b3Rv53a
 
 Обновление от 03.03.18
 1. Загружен исходник.
-ps: Мод более не актуален.
 
 По вопросам модуля: Ruuvi#3827
 https://vk.com/tera_projectile
